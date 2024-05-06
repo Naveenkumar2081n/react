@@ -26,8 +26,8 @@
 }
 .res-card{
     background-color: #f0f0f0;
-    width: 300px;
-
+    width: 250px;
+    
    
     padding: 5px;
     margin: 5px;
@@ -45,4 +45,8 @@
     margin-top: 50px;
     margin-bottom: 20px;
     text-align: center;
+  }
+  .filter{
+    padding: 10px;
+    cursor: pointer;
   }
